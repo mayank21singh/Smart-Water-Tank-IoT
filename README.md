@@ -6,6 +6,9 @@
 ## 📌 Project Overview
 An IoT-based smart water management system designed to monitor tank fill levels and flow rates in real-time. The system processes sensor data to compute fill percentages and estimated fill times, streaming live updates to a mobile dashboard via Wi-Fi using Blynk.
 
+## 📸 Final Hardware Setup
+![Smart Water Tank Physical Setup](./media/final_setup.jpg)
+
 ## 🎥 Video Demonstration
 *(Click the image below to watch the physical hardware and dashboard in action)*
 
